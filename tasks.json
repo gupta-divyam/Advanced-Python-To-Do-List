@@ -1,0 +1,14 @@
+[
+    {
+        "task": "study",
+        "completed": true
+    },
+    {
+        "task": "read a book",
+        "completed": true
+    },
+    {
+        "task": "do homework",
+        "completed": false
+    }
+]
